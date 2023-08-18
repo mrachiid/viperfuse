@@ -1,0 +1,34 @@
+{
+    "intentions": [
+      {
+        "name": "greeting",
+        "patterns": ["Hi", "Hello", "Hey there", "Greetings"],
+        "response": "Hello! Welcome to ViperFuse, How can I assist you today?"
+      },
+      {
+        "name": "help",
+        "patterns": ["I need help", "Can you help me?", "I'm lost", "Please help me"],
+        "response": "Certainly, I am here to help you. What is your question?"
+      },
+      {
+        "name": "farewell",
+        "patterns": ["Goodbye", "See you later", "Bye", "Take care"],
+        "response": "Goodbye! If you need any help in the future, feel free to contact me."
+      },
+      {
+        "name": "about_bot",
+        "patterns": [
+          "Tell me about yourself",
+          "What are you?",
+          "How do you work?",
+          "Who are you?"
+        ],
+        "response": "I am an AI-based chatbot designed to answer questions and assist users with various tasks. My functioning relies on analyzing intents and matching training phrases with user queries. This enables me to understand users' needs and provide appropriate responses."
+      },
+      {
+        "name":"about009",
+        "patterns":["very good","happy"],
+        "response":"you didn't write anything please give me something or a question to answer"
+      }
+    ]
+  }
