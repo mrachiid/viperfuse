@@ -1,0 +1,14 @@
+customtkinter
+opencv-python
+SpeechRecognition
+python-nmap
+openai
+pyfiglet
+PyQt5
+cryptography
+fuzzywuzzy
+scapy
+qdarktheme
+face_recognition
+gTTS
+playsound
