@@ -1,15 +1,16 @@
 # vipefuse
 ![logo2](https://github.com/mrachiid/viperfuse/assets/123762098/05511107-9f30-4a98-a362-11a27018d0ca)
 
-## Comprehensive Security App :
+## Comprehensive Security App:
 
-- L'objectif principal de ce projet est de développer une application basée sur l'intelligence artificielle qui fusionnera plusieurs applications en une seule plateforme, offrant ainsi une gestion simplifiée et conviviale de diverses fonctions liées à la sécurité informatique.
-- En consolidant toutes ces fonctionnalités au sein d'une unique application, notre objectif est de simplifier la vie des professionnels de la sécurité et d'améliorer leur efficacité au travail. De plus, l'intégration d'un chatbot dans l'application garantira une assistance en temps réel, apportant ainsi des réponses immédiates à toutes les questions ou préoccupations des utilisateurs. Cette fonctionnalité renforcera davantage la convivialité et l'efficacité globale de l'application.
-#### Applications regroupées sous ViperFuse : 
+- The main objective of this project is to develop app that will merge several applications into a single platform, thus providing simplified and user-friendly management of various cybersecurity-related functions.
+- By consolidating all these features within a single application, our goal is to simplify the lives of security professionals and enhance their efficiency at work. Additionally, the integration of a chatbot within the application will ensure real-time assistance, thereby providing immediate answers to any user questions or concerns. This feature will further enhance the overall user-friendliness and efficiency of the application.
+
+#### Applications grouped under ViperFuse:
 Network Analyzer <br/>
-Port scanner <br/>
-IP network Scanner <br/>
-File integrity   <br/>
+Port Scanner <br/>
+IP Network Scanner<br/>
+File Integrity<br/>
 
 # How to Use Viperfuse:
 1. install requirements
@@ -53,15 +54,12 @@ Before launch the script install these packages in your **Python3** environment:
 ## how to use File integrity 
 https://github.com/mrachiid/viperfuse/assets/123762098/9a1cbb22-08f0-4c29-985f-cf3903d52410
 
-## Network Analyzer 
+## how to use Port scanner 
 
-## IP network Scanner 
-## Port scanner 
+https://github.com/mrachiid/viperfuse/assets/123762098/afd5cc21-fe2e-4a9e-9f20-1ff1df6c802f
 
-
-
-
-
+## how to use Network Analyzer 
+https://github.com/mrachiid/viperfuse/assets/123762098/00ae28a0-a0b5-4fa4-875e-9d78d308812b
 
 
 
