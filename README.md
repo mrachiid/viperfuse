@@ -1,5 +1,5 @@
 # vipefuse
-![logo2](https://github.com/mrachiid/viperfuse/assets/123762098/05511107-9f30-4a98-a362-11a27018d0ca)
+![logo2](https://github.com/mrachiid/viperfuse/assets/123762098/0ef8be95-31b8-4dd4-a102-4d975dc614ea)
 
 ## Comprehensive Security App:
 
