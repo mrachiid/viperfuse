@@ -6,7 +6,7 @@
 - The main objective of this project is to develop app that will merge several applications into a single platform, thus providing simplified and user-friendly management of various cybersecurity-related functions.
 - By consolidating all these features within a single application, our goal is to simplify the lives of security professionals and enhance their efficiency at work. Additionally, the integration of a chatbot within the application will ensure real-time assistance, thereby providing immediate answers to any user questions or concerns. This feature will further enhance the overall user-friendliness and efficiency of the application.
 
-#### Applications grouped under ViperFuse:
+## Applications grouped under ViperFuse:
 chatbot <br/>
 Network Analyzer <br/>
 Port Scanner <br/>
