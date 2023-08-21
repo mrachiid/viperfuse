@@ -1,19 +1,19 @@
 # vipefuse
 ![logo2](https://github.com/mrachiid/viperfuse/assets/123762098/0ef8be95-31b8-4dd4-a102-4d975dc614ea)
 
-## Comprehensive Security App:
+## Comprehensive Security App :
 
 - The main objective of this project is to develop app that will merge several applications into a single platform, thus providing simplified and user-friendly management of various cybersecurity-related functions.
 - By consolidating all these features within a single application, our goal is to simplify the lives of security professionals and enhance their efficiency at work. Additionally, the integration of a chatbot within the application will ensure real-time assistance, thereby providing immediate answers to any user questions or concerns. This feature will further enhance the overall user-friendliness and efficiency of the application.
 
-## Applications grouped under ViperFuse:
+## Applications grouped under ViperFuse :
 chatbot <br/>
 Network Analyzer <br/>
 Port Scanner <br/>
 IP Network Scanner<br/>
 File Integrity<br/>
 
-# How to Use Viperfuse:
+# How to Use Viperfuse :
 1. install requirements
    
    ```
@@ -33,7 +33,7 @@ File Integrity<br/>
    ![261750207-2efe5b5b-c82c-4521-b271-28f081dc441e](https://github.com/mrachiid/viperfuse/assets/123762098/757e22a7-414f-4366-a0e9-dd7f1c70c918)
 
 
-# Preinstallation
+# Preinstallation :
 Before launch the script install these packages in your **Python3** environment:
 - python==3.8
 - customtkinter
